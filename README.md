@@ -32,7 +32,7 @@ python notepad.py
 - `datetime` – Used to get and display the current time and date.
 - `tkinter.filedialog` – To open and save files through a dialog window.
 - `tkinter.messagebox` – To display popup messages such as k
-
+```
 ---
 
 ## 👨‍💻 Created by
