@@ -38,7 +38,7 @@ Notepad ini adalah aplikasi GUI sederhana yang dibuat menggunakan Python dan Tki
 
 **Muhammad Yusuf Aditiya**  
 🎓 Pelajar & Developer  
-💼 [LinkedIn](https://linkedin.com/in/USERNAME) | 🌐 [Portfolio](https://yourwebsite.com)  
-✉️ Email: your@email.com
+💼 [LinkedIn](https://linkedin.com/in/myfza) | 🌐 [Portfolio](https://vizart.netlify.app)  
+✉️ Email: vizart.id@email.com
 
 ---
