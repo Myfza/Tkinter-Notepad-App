@@ -1,44 +1,43 @@
 # 📝 Python Notepad - GUI App with Tkinter
 
-Notepad ini adalah aplikasi GUI sederhana yang dibuat menggunakan Python dan Tkinter. Proyek ini cocok untuk pemula yang ingin memahami cara kerja GUI, manipulasi file teks, dan interaksi menu dalam Python.
+Notepad is a simple GUI application built using Python and Tkinter. This project is suitable for beginners who want to understand GUIs, text file manipulation, and menu interaction in Python.
 
 ---
-![Notepad Preview](Preview-notepad.png) 
+![Notepad Preview](Preview-notepad.png)
 
-## 📌 Fitur Utama
+## 📌 Key Features
 
-- 🔹 Buka file `.txt`
-- 🔹 Simpan dan Simpan Sebagai
-- 🔹 Potong, Salin, Tempel, Hapus
-- 🔹 Cari dan Sorot Kata
-- 🔹 Tampilkan Tanggal & Waktu
-- 🔹 Informasi Tentang Aplikasi
-- 🔹 Komponen `ScrolledText` untuk area teks
+- 🔹 Open `.txt` files
+- 🔹 Save and Save As
+- 🔹 Cut, Copy, Paste, Delete
+- 🔹 Search and Highlight Words
+- 🔹 Display Date & Time
+- 🔹 Application Information
+- 🔹 `ScrolledText` component for text areas
 
 ---
 
-## 🚀 Cara Menjalankan
+## 🚀 How to Run
 
-1. Pastikan Python sudah terinstall di sistem kamu (rekomendasi Python 3.8+).
-2. Clone atau unduh repositori ini.
-3. Jalankan perintah berikut:
-   ```bash
-   python notepad.py
+1. Make sure Python is installed on your system (Python 3.8+ recommended).
+2. Clone or download this repository.
+3. Run the following command:
+```bash
+python notepad.py
 
-## 🧠 Library yang Digunakan
+## 🧠 Libraries Used
 
-- `tkinter` – GUI standar untuk membuat tampilan aplikasi Python berbasis desktop.
-- `tkinter.scrolledtext` – Modul tambahan dari `tkinter` untuk area teks dengan scrollbar otomatis.
-- `datetime` – Digunakan untuk mendapatkan dan menampilkan waktu & tanggal saat ini.
-- `tkinter.filedialog` – Untuk membuka dan menyimpan file melalui jendela dialog.
-- `tkinter.messagebox` – Untuk menampilkan pesan popup seperti k
+- `tkinter` – A standard GUI for creating desktop-based Python applications.
+- `tkinter.scrolledtext` – An add-on module for `tkinter` for text areas with automatic scrollbars.
+- `datetime` – Used to get and display the current time and date.
+- `tkinter.filedialog` – To open and save files through a dialog window.
+- `tkinter.messagebox` – To display popup messages such as k
 
+---
 
-## 👨‍💻 Dibuat oleh
+## 👨‍💻 Created by
 
-**Muhammad Yusuf Aditiya**  
-🎓 Pelajar & Developer  
-💼 [LinkedIn](https://linkedin.com/in/myfza) | 🌐 [Portfolio](https://vizart.netlify.app)  
+**Muhammad Yusuf Aditiya**
+🎓 Student & Developer
+💼 [LinkedIn](https://linkedin.com/in/myfza) | 🌐 [Portfolio](https://vizart.netlify.app)
 ✉️ Email: vizart.id@email.com
-
----
